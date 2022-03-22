@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 40%;
+  margin: auto;
+  display: block;
+  float: center;
+}
+
+.col {
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
